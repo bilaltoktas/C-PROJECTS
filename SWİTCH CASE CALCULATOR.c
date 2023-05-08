@@ -19,10 +19,6 @@ int main()
 
     switch(i)
     {
-
-
-
-
         case 1 :
             toplam=x+y;
             printf("\n\nSONUC: %d",toplam);
